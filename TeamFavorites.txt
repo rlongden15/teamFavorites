@@ -1,7 +1,9 @@
 Team Favorite Foods
+Cake
 Chicago Dog
 Chicken
 Curry
+Burger
 Enchiladas 
 Italian Beef
 Lasagna
@@ -10,6 +12,7 @@ Pasta
 Pizza
 Sandwich
 Spaghetti
+Spring Roll
 Sushi
 Tacos
 Watermelon
