@@ -1,4 +1,6 @@
 Team Favorite Foods
+Apple
+Carrots
 Chicago Dog
 Chicken
 Curry
@@ -10,3 +12,4 @@ Pizza
 Sushi
 Tacos
 Watermelon
+Zucchini
