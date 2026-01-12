@@ -4,9 +4,12 @@ Chicken
 Curry
 Enchiladas 
 Italian Beef
+Lasagna
 Mac and Cheese
 Pasta
 Pizza
+Sandwich
+Spaghetti
 Sushi
 Tacos
 Watermelon
