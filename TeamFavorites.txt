@@ -6,9 +6,12 @@ Curry
 Burger
 Enchiladas 
 Italian Beef
+Lasagna
 Mac and Cheese
 Pasta
 Pizza
+Sandwich
+Spaghetti
 Spring Roll
 Sushi
 Tacos
